@@ -1,0 +1,2 @@
+# Ridzi-AI
+Pembantu pekerja
